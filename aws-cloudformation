@@ -1,3 +1,8 @@
 aws-cloudformation-desafio/
 ├─ README.md
 ├─ template.yaml
+└─ images/
+    ├─ criando-stack.png
+    ├─ recursos-provisionados.png
+    └─ outputs.png
+
